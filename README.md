@@ -25,3 +25,6 @@
     
     https://gitlab.com/KhayFix/behave_selenium
     
+Все что требуется для работы теста запустить файл:
+
+    test_1.feature
